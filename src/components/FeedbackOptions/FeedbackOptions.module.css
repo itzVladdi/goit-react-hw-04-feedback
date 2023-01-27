@@ -1,0 +1,17 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.btn {
+  padding: 5px 10px;
+
+  font-size: 15px;
+
+  text-transform: capitalize;
+  cursor: pointer;
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 3px;
+}
